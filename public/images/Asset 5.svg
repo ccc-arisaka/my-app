@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 177">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: .1em;
+      }
+
+      .cls-3 {
+        letter-spacing: .1em;
+      }
+
+      .cls-4 {
+        letter-spacing: .1em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-6 {
+        letter-spacing: .1em;
+      }
+
+      .cls-7 {
+        letter-spacing: .09em;
+      }
+
+      .cls-8 {
+        letter-spacing: .09em;
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-9, .cls-10, .cls-11, .cls-12, .cls-13 {
+        stroke-width: 0px;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        letter-spacing: .04em;
+      }
+
+      .cls-16 {
+        letter-spacing: .04em;
+      }
+
+      .cls-17 {
+        letter-spacing: .09em;
+      }
+
+      .cls-18 {
+        letter-spacing: .08em;
+      }
+
+      .cls-19 {
+        letter-spacing: .04em;
+      }
+
+      .cls-20 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-21 {
+        letter-spacing: -.4em;
+      }
+
+      .cls-22 {
+        letter-spacing: -.4em;
+      }
+
+      .cls-23 {
+        letter-spacing: .09em;
+      }
+
+      .cls-24 {
+        font-family: NotoSansJP-Regular, 'Noto Sans JP';
+        font-size: 14px;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-24, .cls-25 {
+        fill: #555;
+      }
+
+      .cls-25 {
+        font-family: NotoSansJP-Bold, 'Noto Sans JP';
+        font-size: 18.47px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-26 {
+        letter-spacing: 0em;
+      }
+
+      .cls-27 {
+        letter-spacing: .07em;
+      }
+
+      .cls-28 {
+        letter-spacing: .07em;
+      }
+
+      .cls-29 {
+        letter-spacing: .07em;
+      }
+
+      .cls-30 {
+        letter-spacing: .07em;
+      }
+
+      .cls-31 {
+        letter-spacing: .03em;
+      }
+
+      .cls-32 {
+        letter-spacing: 0em;
+      }
+
+      .cls-33 {
+        letter-spacing: .07em;
+      }
+
+      .cls-34 {
+        letter-spacing: .04em;
+      }
+
+      .cls-35 {
+        letter-spacing: .03em;
+      }
+
+      .cls-36 {
+        letter-spacing: .03em;
+      }
+
+      .cls-37 {
+        letter-spacing: .03em;
+      }
+
+      .cls-38 {
+        letter-spacing: .02em;
+      }
+
+      .cls-39 {
+        letter-spacing: .05em;
+      }
+
+      .cls-40 {
+        letter-spacing: .08em;
+      }
+
+      .cls-41 {
+        letter-spacing: 0em;
+      }
+
+      .cls-42 {
+        letter-spacing: 0em;
+      }
+
+      .cls-43 {
+        letter-spacing: 0em;
+      }
+
+      .cls-44 {
+        letter-spacing: .05em;
+      }
+
+      .cls-45 {
+        letter-spacing: 0em;
+      }
+
+      .cls-46 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-10 {
+        fill: #75655d;
+      }
+
+      .cls-11 {
+        fill: #d9c07c;
+      }
+
+      .cls-12 {
+        fill: #9d8e86;
+      }
+
+      .cls-13 {
+        fill: #fdde8e;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="187.5" y1="177" x2="187.5" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset=".77" stop-color="#d7f0ff"/>
+      <stop offset=".9" stop-color="#f0f9ff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="design">
+    <polygon class="cls-9" points="375 115.95 191.79 177 0 115.95 0 0 375 0 375 115.95"/>
+    <text class="cls-24" transform="translate(103.42 78.24)"><tspan class="cls-17" x="0" y="0">あ</tspan><tspan class="cls-44" x="15.22" y="0">な</tspan><tspan class="cls-28" x="29.96" y="0">た</tspan><tspan class="cls-18" x="44.87" y="0">の</tspan><tspan class="cls-3" x="59.99" y="0">結</tspan><tspan class="cls-8" x="75.39" y="0">果</tspan><tspan class="cls-37" x="90.62" y="0">を</tspan><tspan class="cls-14" x="105.04" y="0">も</tspan><tspan class="cls-32" x="119.07" y="0">と</tspan><tspan class="cls-19" x="133.07" y="0">に</tspan><tspan class="cls-21" x="147.67" y="0">、</tspan><tspan class="cls-3" x="-72.04" y="22">最</tspan><tspan class="cls-6" x="-56.64" y="22">適</tspan><tspan class="cls-18" x="-41.21" y="22">な</tspan><tspan class="cls-3" x="-26.09" y="22">導</tspan><tspan class="cls-15" x="-10.69" y="22">入</tspan><tspan class="cls-42" x="3.87" y="22">プ</tspan><tspan class="cls-1" x="17.97" y="22">ラ</tspan><tspan class="cls-31" x="31.72" y="22">ン</tspan><tspan class="cls-34" x="46.17" y="22">を</tspan><tspan class="cls-4" x="60.66" y="22">無</tspan><tspan class="cls-27" x="76.05" y="22">料</tspan><tspan class="cls-41" x="90.96" y="22">で</tspan><tspan class="cls-35" x="105.06" y="22">ご</tspan><tspan class="cls-3" x="119.53" y="22">案</tspan><tspan class="cls-40" x="134.93" y="22">内</tspan><tspan class="cls-36" x="150.09" y="22">い</tspan><tspan class="cls-26" x="164.56" y="22">た</tspan><tspan class="cls-43" x="178.61" y="22">し</tspan><tspan class="cls-45" x="192.54" y="22">ま</tspan><tspan class="cls-5" x="206.48" y="22">す</tspan><tspan class="cls-21" x="219.91" y="22">。</tspan></text>
+    <g>
+      <text class="cls-25" transform="translate(76.58 48.12)"><tspan class="cls-2" x="0" y="0">【</tspan><tspan class="cls-16" x="20.32" y="0">続</tspan><tspan class="cls-38" x="39.53" y="0">き</tspan><tspan class="cls-23" x="58.43" y="0">の</tspan><tspan class="cls-2" x="78.5" y="0">結</tspan><tspan class="cls-7" x="98.82" y="0">果</tspan><tspan class="cls-33" x="118.96" y="0">を</tspan><tspan class="cls-29" x="138.71" y="0">見</tspan><tspan class="cls-39" x="158.49" y="0">る</tspan><tspan class="cls-30" x="177.83" y="0">に</tspan><tspan class="cls-46" x="197.59" y="0">は</tspan><tspan class="cls-20" x="214.77" y="0">？</tspan><tspan class="cls-22" x="232.38" y="0">】</tspan></text>
+      <g>
+        <rect class="cls-13" x="56.81" y="37.66" width="18.6" height="16.31" rx=".95" ry=".95"/>
+        <path class="cls-12" d="m72.35,37.66h-1.85v-3.15c0-2.42-1.97-4.39-4.39-4.39s-4.39,1.97-4.39,4.39v3.15h-1.85v-3.15c0-3.44,2.8-6.24,6.24-6.24s6.24,2.8,6.24,6.24v3.15Z"/>
+        <path class="cls-11" d="m74.47,37.66h-8.35v16.31h8.35c.52,0,.95-.43.95-.95v-14.42c0-.52-.43-.95-.95-.95Z"/>
+        <path class="cls-10" d="m68.5,44.16c0-1.32-1.07-2.4-2.4-2.4s-2.4,1.07-2.4,2.4c0,1.02.64,1.89,1.54,2.24l-.43,3.09h2.6l-.43-3.1c.89-.35,1.52-1.22,1.52-2.23Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
